@@ -2,6 +2,8 @@
 
 Integrated Performance Monitoring for HPC
 
+Modified Version by Lei Shang (lei.shang@anu.edu.au)
+
 ## Quick start
 
 IPM uses the common GNU autotools build system for compilation. As such, a
